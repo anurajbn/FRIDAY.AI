@@ -1,1 +1,2 @@
 # FRIDAY.AI
+#The "AI Desktop Assistant using Python" project showcases the versatile applications of AI through Python programming, demonstrating how "Friday" seamlessly integrates AI capabilities to enhance user interactions, information retrieval, and task execution. By harnessing these technologies, the project underscores the potential of AI-powered virtual assistants in simplifying daily tasks and delivering intelligent responses.
